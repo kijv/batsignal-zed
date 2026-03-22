@@ -1,0 +1,7 @@
+id = "batsignal"
+name = "Batsignal"
+version = "0.0.1"
+schema_version = 1
+authors = ["kijv"]
+description = ""
+repository = "https://github.com/your-name/my-zed-extension"
