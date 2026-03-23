@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["kijv"]
 description = ""
-repository = "https://github.com/kijv/zed-batsignal"
+repository = "https://github.com/kijv/batsignal-zed"
