@@ -7,6 +7,9 @@
       "name": "Batsignal Dark",
       "appearance": "dark",
       "style": {
+        "accents": ["#DA70D6FF", "#0171BAff"],
+        "background": "#00000000",
+        "background.appearance": "opaque",
         "border": "#151515FF",
         "border.variant": "#181818FF",
         "border.focused": "#000000FF",
@@ -15,7 +18,6 @@
         "border.disabled": "#454545FF",
         "elevated_surface.background": "#000000FF",
         "surface.background": "#000000FF",
-        "background": "#000000FF",
         "element.background": "#000000FF",
         "element.hover": "#000000FF",
         "element.active": "#0A0A0AFF",
@@ -131,16 +133,16 @@
         "modified": "#C0C0C0FF",
         "modified.background": "#000000FF",
         "modified.border": "#151515FF",
-        "predictive": "#FF00FFFF",
+        "predictive": "#7BABA966",
         "predictive.background": "#000000FF",
         "predictive.border": "#151515FF",
-        "renamed": "#FF00FFFF",
+        "renamed": "#C0C0C0FF",
         "renamed.background": "#000000FF",
         "renamed.border": "#151515FF",
-        "success": "#FF00FFFF",
+        "success": "#AAAAAAFF",
         "success.background": "#000000FF",
         "success.border": "#151515FF",
-        "unreachable": "#FF00FFFF",
+        "unreachable": "#777777FF",
         "unreachable.background": "#000000FF",
         "unreachable.border": "#151515FF",
         "warning": "#FFBB58FF",
@@ -379,11 +381,10 @@
         "minimap.thumb.hover_background": "#222222FF",
         "minimap.thumb.active_background": "#303030FF",
         "minimap.thumb.border": "#00000000",
-        "version_control.renamed": "#FF00FFFF",
+        "version_control.renamed": "#C0C0C0FF",
         "version_control.conflict": "#C0C0C0FF",
         "version_control.ignored": "#272727FF"
       }
     }
-  ],
-  "isUserGenerated": true
+  ]
 }
