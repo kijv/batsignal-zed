@@ -262,12 +262,12 @@
             "font_weight": null
           },
           "primary": {
-            "color": "#acb2beff",
+            "color": "#ACB2BEFF",
             "font_style": null,
             "font_weight": null
           },
           "property": {
-            "color": "#FFFFFFFF",
+            "color": "#B3B3B3FF",
             "font_style": null,
             "font_weight": null
           },
@@ -282,7 +282,7 @@
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#b2b9c6ff",
+            "color": "#B3B3B3FF",
             "font_style": null,
             "font_weight": null
           },
@@ -352,7 +352,7 @@
             "font_weight": 400
           },
           "type": {
-            "color": "#B3B3B3FF",
+            "color": "#CCCCCCFF",
             "font_style": null,
             "font_weight": null
           },
